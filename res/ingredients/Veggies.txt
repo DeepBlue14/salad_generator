@@ -1,0 +1,8 @@
+radish
+carrot
+pepper
+celery
+mushroom
+cucumber
+tomatoe
+onion
